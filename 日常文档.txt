@@ -66,4 +66,4 @@ http://jenkins.qcloannow.com
 
 印度ssh：
 149.129.172.76 
-root  AJDWvlzo5w7dIDAr印度线上测试账号：9686520477泰国测试后台地址http://ht-test.cashqk.net/zhangrui123456泰国账号：0825410507泰国测试库159.138.253.112  5985root  Kx3KFgVgAFLaQB05泰国测试服务器159.138.253.112    端口110root  AJDWvlzo5w7dIDArxxl-jobhttp://xxl-test.cashqk.net/  adminNJqu5NbVEHndBQq1泰国生产三方后台，活体https://th-manage.shusen.ltd/ 账号：qiancheng密码：Ss123456
+root  AJDWvlzo5w7dIDAr印度线上测试账号：9686520477泰国测试后台地址http://ht-test.cashqk.net/zhangrui123456泰国账号：0825410507泰国生产后台地址：https://ht.cashqk.net/commonDev/configzhangrui   123456泰国测试库159.138.253.112  5985root  Kx3KFgVgAFLaQB05泰国测试服务器159.138.253.112    端口110root  AJDWvlzo5w7dIDArxxl-jobhttp://xxl-test.cashqk.net/  adminNJqu5NbVEHndBQq1泰国生产三方后台，活体https://th-manage.shusen.ltd/ 账号：qiancheng密码：Ss123456泰国Jenkins地址：http://jenkins.cashqk.net/login?from=%2F用户名： admin密码： fyEzfSr4eUBsv7W0
