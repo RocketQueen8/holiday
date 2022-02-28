@@ -1,0 +1,69 @@
+上包记录链接：https://docs.qq.com/sheet/DWUhvT3l4WHVEZWl2?tab=BB08J2印尼测试环境后台地址http://106.14.249.165:10017/login?redirect=%2Fmnt%2Fmnt%2Fdeploy 
+
+账号：dev
+密码：123456印尼线上后台地址及账号
+https://ht.cashl.net/dashboard账号：zhangrui密码：123456印尼Jenkins：http://jenkins.cashl.net/cash cash@yjd2021
+
+
+印尼xxljob后台 
+http://149.129.222.99:10017/xxl-job-admin/ 
+
+账号：admin
+密码：123456
+
+
+
+印尼数据库
+ip：106.14.249.165
+
+用户名：root
+密码：zlhr0SO1Dd
+
+印尼服务器
+地址：ssh work@106.14.249.165
+
+密码：BR93xqvH0ajbzh
+
+测试账号：81991419955     验证码：1234
+
+线上测试银行卡：5930771882（BCA）    202701009473505（BRI）
+
+线上测试电话号码：8127658788     线上验证码：1234
+
+
+印度测试环境：
+
+印度测试环境后台地址http://ht-test.qcloannow.com zhangrui123456印度生产环境后台地址https://ht.qcloannow.com/commonDev/cashAppzhangrui123456Bank account 7545281970IFSC code KKBK0008066
+
+
+
+印度xxl管理地址：
+http://xxl-test.qcloannow.comadminNJqu5NbVEHndBQq1
+
+
+
+印度h5地址：
+http://h5-test.qcloannow.com
+
+
+
+印度jenkins地址
+http://jenkins.qcloannow.com
+
+用户名： admin， 密码： fyEzfSr4eUBsv7W0
+
+
+
+印度Mysql：
+149.129.172.76:3306
+用户： root  密码： 123
+
+
+
+印度redis：
+149.129.172.76:6379
+密码： 123456
+
+印度ssh：
+149.129.172.76 
+root  AJDWvlzo5w7dIDAr印度线上测试账号：9686520477泰国测试后台地址http://ht-test.cashqk.net/zhangrui123456泰国账号：0825410507泰国测试库159.138.253.112  5985root  Kx3KFgVgAFLaQB05泰国测试服务器159.138.253.112    端口110root  AJDWvlzo5w7dIDArxxl-jobhttp://xxl-test.cashqk.net/  adminNJqu5NbVEHndBQq1泰国生产三方后台，活体https://th-manage.shusen.ltd/ 账号：qiancheng密码：Ss123456
